@@ -1,16 +1,16 @@
 html {
   font-size: 10px;
-   background: #193599; /*url(http://i.imgurecho "# JS-30-Stuff" >> README.md.com/b9r5sEL.jpg) bottom center; */
+   background: #193590; /*url(http://i.imgurecho "# JS-30-Stuff" >> README.md.com/b9r5sEL.jpg) bottom center; */
   background-size: cover;
 }
 h1{
-     margin: 1rem;
-  font-size: 10rem;
-  /* padding: 1rem .5rem; */
-   text-align: center;
-  color: white;
- aaaa /* background: rgba(0,0,0,0.4); */
-  /* text-shadow: 0 0 .5rem black */
+    color: white;
+    font-size: 10rem;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 20rem;
+     text-shadow:  0 .9rem black;
+ 
 }
 body,html {
   margin: 0;
