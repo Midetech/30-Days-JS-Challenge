@@ -1,3 +1,11 @@
+/* a */
+body,html {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+}
+
 html {
   font-size: 10px;
    background: #193590; /*url(http://i.imgurecho "# JS-30-Stuff" >> README.md.com/b9r5sEL.jpg) bottom center; */
@@ -7,7 +15,7 @@ h1{
     color: white;
     font-size: 10rem;
     position: absolute;
-    margin-left: 40%;
+    margin-left: 42%;
     margin-top: 20rem;
      text-shadow:  0 .9rem black;
  
